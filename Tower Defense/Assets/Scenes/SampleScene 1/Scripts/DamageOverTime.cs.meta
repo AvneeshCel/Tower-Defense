@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 267abb6f481df584b953f85e61c7c7ed
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemy: {instanceID: 0}
+  - bleedEffect: {fileID: 6847365970042553102, guid: 5b501af85a82e5448b0f50c9eeb1fc05,
+      type: 3}
+  - poisonEffect: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
